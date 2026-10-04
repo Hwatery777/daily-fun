@@ -102,17 +102,6 @@
     "publishedAt": "2026-10-04T05:26:55.000Z"
   },
   {
-    "id": "news-52fa3f7eafa6e0d7",
-    "title": "一份 AI 创业复盘：工具能做出来，不等于客户会买",
-    "brief": "比“AI 机会很多”更具体：渠道、交付成本、组织阻力和需求价值，如何影响落地。",
-    "summary": "2026-10-04 的个人经验文章。作者复盘企业 AI 项目与自有管理工具，讨论线索不足、外包难题、实施成本，以及工具暴露问题却无法解决问题时的阻力。文中的成交率和创业判断属于个人经历，不是整个行业的统计结论。对产品与设计更有用的追问是：谁愿意付出成本、谁需要改变行为、方案能否改善真实结果？",
-    "category": "AI 前沿",
-    "priority": "normal",
-    "sourceName": "人人都是产品经理",
-    "sourceUrl": "https://www.woshipm.com/share/6473502.html",
-    "publishedAt": "2026-10-04T06:26:54.000Z"
-  },
-  {
     "id": "news-3c156f07f7e420f5",
     "title": "当 3D 里的按钮还是按钮，网页体验会怎样变化？",
     "brief": "Muzli 的大会观察，把立体视觉背后的可操作性、可读文字和体验克制连在一起。",
@@ -135,17 +124,6 @@
     "sourceName": "Road to VR",
     "sourceUrl": "https://roadtovr.com/neon-genesis-evangelion-vr-hands-on-2026/",
     "publishedAt": "2026-10-02T10:18:26.000Z"
-  },
-  {
-    "id": "news-31b0d9c1c6ddfd8a",
-    "title": "理解具身智能竞争：创新可能藏在机器人的行为里",
-    "brief": "行业专家从恢复平衡、群体协作和校准方法，讨论机器人价值为何不止外形与零件。",
-    "summary": "2026-10-03 的从业者专栏，作者具有专利业务背景。文章认为机器人创新可能跨越机构、软件、模型和校准，讨论行为与系统协作如何形成差异，以及公开技术与保留知识之间的取舍。这是产业视角的观点文章。适合设计师拓宽观察单位：除了单台机器的造型，还要看整套行为、协作关系和使用场景。",
-    "category": "前沿交互",
-    "priority": "normal",
-    "sourceName": "The Robot Report",
-    "sourceUrl": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
-    "publishedAt": "2026-10-03T14:30:07.000Z"
   },
   {
     "id": "news-94d09bb0cd4b576a",
@@ -198,19 +176,6 @@
     "imageAlt": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验 · 原文配图"
   },
   {
-    "id": "news-ff43768c6587d33b",
-    "title": "耳夹耳机的设计，不只有一个漂亮的外壳",
-    "brief": "CMF Clip Pro 实测从弧线、佩戴与漏音模式，讨论工业设计怎样延伸到日常使用。",
-    "summary": "2026-10-03 的独立体验文章。作者观察开放式耳夹的造型、佩戴稳定性与声音表现，并指出漏音抑制会改变高频，可以只在通话时启用。对设计学习更有用的是一个具体取舍：降低对周围人的干扰，是否应该成为全局默认，还是让它跟随使用场景变化？声音感受属于作者的主观体验。",
-    "category": "设计灵感",
-    "priority": "normal",
-    "sourceName": "少数派",
-    "sourceUrl": "https://sspai.com/post/114922",
-    "publishedAt": "2026-10-03T07:00:00.000Z",
-    "imageUrl": "https://rssfile.sspai.com/2026/09/24/e42b33d267d4d6f20c1db70920a69f57.jpg?imageMogr2/auto-orient/ignore-error/1",
-    "imageAlt": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验 · 原文配图"
-  },
-  {
     "id": "news-344a2f185207d593",
     "title": "本周影视片单：从故事之外，读画面与美术",
     "brief": "少数派编辑的八部作品导读，适合顺着评论挑一部，再观察它的视觉语言。",
@@ -235,17 +200,5 @@
     "publishedAt": "2026-10-01T10:00:00.000Z",
     "imageUrl": "https://images.aeonmedia.co/images/73768d4d-af29-4f99-ab9e-8a2715230088/esssay-gettyimages-2278740190.jpg?width=1200&quality=75&format=jpeg",
     "imageAlt": "Reason is more than a tool · 原文配图"
-  },
-  {
-    "id": "news-83b5297dec1e9cb2",
-    "title": "十月视觉小练习：同一个秋天，可以画出多少种感觉？",
-    "brief": "Smashing 的设计师壁纸合集，既能换桌面，也能比较主题、配色与留白的不同解法。",
-    "summary": "2026-09-30 发布的十月作品合集，由不同地区创作者分享壁纸与创作想法，提供多种屏幕尺寸。可以选三张同主题作品，比较它们如何用几何形、色彩和画面重心表达季节，而不是只收集截图。这里的用途是审美观察与轻量练习，和行业新闻分开理解。",
-    "category": "设计灵感",
-    "priority": "normal",
-    "sourceName": "Smashing Magazine",
-    "sourceUrl": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-    "publishedAt": "2026-09-30T13:30:00.000Z",
-    "contentType": "inspiration"
   }
 ]
