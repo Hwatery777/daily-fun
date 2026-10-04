@@ -1,0 +1,182 @@
+[
+  {
+    "id": "demo-01",
+    "title": "从回答问题，到完成工作：如何理解 AI Agent？",
+    "brief": "当 AI 开始调用工具、拆解任务并检查结果，产品的重点也从一次对话，转向一段可以完成的工作流程。",
+    "summary": "这是一条版式演示内容，参考 Anthropic 的 Agent 工程文章整理，并非当天新闻。文章区分了预先定义步骤的工作流，以及由模型动态选择步骤的 Agent，并建议从满足需求的简单方案开始。对设计师而言，可以关注用户怎样确认任务、查看过程和纠正结果。",
+    "category": "AI 前沿",
+    "priority": "lead",
+    "sourceName": "Anthropic",
+    "sourceUrl": "https://www.anthropic.com/engineering/building-effective-agents",
+    "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/76b5733c669f0dfb9c7aa7fc512a495867cf12e6-2400x1260.png",
+    "imageAlt": "Anthropic Agent 工程文章的官方封面"
+  },
+  {
+    "id": "demo-09",
+    "title": "具身智能：认识 AI 与机器人结合的工具",
+    "brief": "从 NVIDIA Isaac 官方入口了解机器人 AI 的相关工具与资源。",
+    "summary": "这是一条前沿交互板块的演示内容。来源为 NVIDIA Isaac 官方平台介绍。后续会从设计视角关注机器人如何表达状态、理解意图并与人协作，同时纳入语音交互和多模态交互的案例与经验。此条目是背景资料，不是当天的新产品公告。",
+    "category": "前沿交互",
+    "priority": "lead",
+    "sourceName": "NVIDIA Developer",
+    "sourceUrl": "https://developer.nvidia.com/isaac",
+    "imageUrl": "https://developer.download.nvidia.com/images/isaac/gtc24-issac-robotics-social-3167701-1200x628.png",
+    "imageAlt": "NVIDIA Isaac 官方平台封面"
+  },
+  {
+    "id": "demo-02",
+    "title": "设计工具中的 AI，如何进入日常创作流程？",
+    "brief": "从寻找灵感到处理重复工作，关注 AI 能在哪一步减少负担，以及设计师在哪里保留判断。",
+    "summary": "这是一条演示内容。来源链接为 Figma AI 官方介绍页，可查看其 AI 相关产品能力。这里展示的是设计工具类信息在日报中的呈现方式，不代表 Figma 今天发布了新功能。",
+    "category": "设计灵感",
+    "priority": "important",
+    "sourceName": "Figma",
+    "sourceUrl": "https://www.figma.com/ai/",
+    "imageUrl": "https://cdn.sanity.io/images/599r6htc/regionalized/0e55b80fb23bb49792f7fecc92cd64353783bfa5-2400x1260.jpg?w=1200&q=70&fit=max&auto=format",
+    "imageAlt": "Figma AI 官方介绍页的封面"
+  },
+  {
+    "id": "demo-03",
+    "title": "写代码之外，AI 编程助手还能帮你做什么？",
+    "brief": "解释已有代码、协助修改和检查问题，都是理解 AI 编程产品的一组具体切入点。",
+    "summary": "这是一条演示内容。来源为 GitHub Copilot 官方产品介绍页。你可以从实际任务出发，观察助手能参与哪些步骤、结果如何验证，而不是只比较生成代码的速度。此条目不表示今天有产品更新。",
+    "category": "AI 前沿",
+    "priority": "important",
+    "sourceName": "GitHub",
+    "sourceUrl": "https://github.com/features/copilot",
+    "imageUrl": "https://images.ctfassets.net/8aevphvgewt8/4KxWJH8PVVXdqBLs1V3UJ8/8926c7d150a8b8f3bf33c1c8a133724b/github-copilot-social-img.png",
+    "imageAlt": "GitHub Copilot 官方产品封面"
+  },
+  {
+    "id": "demo-04",
+    "title": "车载 HMI：从驾驶场景理解交互设计",
+    "brief": "从车内信息层级与操作场景出发，阅读 Android for Cars 的官方设计指南。",
+    "summary": "这是一条前沿交互板块的演示内容，来源为 Google Design for Driving。该指南提供 Android Auto 与 Android Automotive OS 的车载界面设计资料。后续采编将重点关注智能座舱中 AI、语音与多模态交互的实际设计案例；此条目本身是基础资料，并非当天新闻。",
+    "category": "前沿交互",
+    "priority": "important",
+    "sourceName": "Google Design for Driving",
+    "sourceUrl": "https://developers.google.com/cars/design",
+    "imageUrl": "https://developers.google.com/static/cars/design/images/designforcars_new.png",
+    "imageAlt": "Google 车载设计指南的官方配图"
+  },
+  {
+    "id": "demo-10",
+    "title": "用十条可用性原则，检查你的设计方案",
+    "brief": "从系统状态、用户控制到错误恢复，用一组经典原则审视界面中的具体问题。",
+    "summary": "这是一条经典设计方法的演示内容，参考 Nielsen Norman Group 的十条可用性启发式原则。可以把它作为设计评审的检查入口，结合实际使用情境逐项观察；它不能代替真实用户研究。此条目是长期阅读资料，并非当天新闻。",
+    "category": "设计灵感",
+    "priority": "important",
+    "sourceName": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+  },
+  {
+    "id": "demo-05",
+    "title": "XR：从窗口走向空间体验",
+    "brief": "了解 visionOS 的空间计算设计入口，观察数字内容如何进入真实环境。",
+    "summary": "这是一条前沿交互板块的演示内容。Apple 的 visionOS 官方页面提供空间计算、窗口、三维内容与沉浸式体验的介绍和资源入口。后续选题会关注 XR 与 AI 结合的交互方案和落地经验，当前链接是背景资料。",
+    "category": "前沿交互",
+    "priority": "normal",
+    "sourceName": "Apple Developer",
+    "sourceUrl": "https://developer.apple.com/visionos/",
+    "imageUrl": "https://developer.apple.com/visionos/images/figure_2x.webp",
+    "imageAlt": "visionOS 官方页面的示意配图"
+  },
+  {
+    "id": "demo-06",
+    "title": "MCP：连接 AI 与外部工具的一种协议",
+    "brief": "从官方介绍了解应用如何把数据与工具连接到 AI 工作流程。",
+    "summary": "这是一条演示内容。MCP 官方介绍说明了协议在 AI 应用和外部系统之间的连接作用。具体能力仍取决于应用与工具的实现；此条目用于展示概念类短讯。",
+    "category": "AI 前沿",
+    "priority": "normal",
+    "sourceName": "MCP 官方文档",
+    "sourceUrl": "https://modelcontextprotocol.io/docs/getting-started/intro",
+    "imageUrl": "https://raw.githubusercontent.com/modelcontextprotocol/docs/2eb6171ddbfeefde349dc3b8d5e2b87414c26250/images/og-image.png",
+    "imageAlt": "MCP 官方文档封面"
+  },
+  {
+    "id": "demo-07",
+    "title": "从 Muzli 发现值得研究的设计灵感",
+    "brief": "查看设计、交互与视觉作品，收集具体案例，也观察它们解决了什么问题。",
+    "summary": "这是一条设计灵感板块的演示内容，配图为 Muzli 官方展示的设计信息流。来源链接为 Muzli 官方网站，介绍其策展内容和灵感入口，不表示这些作品今天刚刚发布。后续日报可分享经过筛选的具体作品与平台文章。",
+    "category": "设计灵感",
+    "priority": "normal",
+    "sourceName": "Muzli",
+    "sourceUrl": "https://muz.li/",
+    "contentType": "inspiration",
+    "imageUrl": "https://bobo.muzli.cloud/1742114202197-mobile.webp",
+    "imageAlt": "Muzli 官方展示的设计灵感信息流"
+  },
+  {
+    "id": "demo-08",
+    "title": "学外语的意义，除了沟通还有什么？",
+    "brief": "一段英语演讲，练习听力，也思考自己学习语言的动机。",
+    "summary": "这是一条视频内容的演示条目。语言学家 John McWhorter 在 TED2016 的演讲中介绍学习新语言的四个理由。它是历史内容，作为英语学习与优质视频分享的示例，并非最新视频。后续可加入与 AI、设计、摄影、电影艺术及兴趣相关的优质短视频。",
+    "category": "个人成长",
+    "priority": "normal",
+    "sourceName": "TED · John McWhorter",
+    "sourceUrl": "https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language",
+    "contentType": "video",
+    "imageUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/dc84f9d1-3c4a-4cd9-95f6-a16e4fd53caf/JohnMcWhorter_2016-embed.jpg?quality=82&w=1050",
+    "imageAlt": "John McWhorter 在 TED2016 的演讲画面"
+  },
+  {
+    "id": "demo-11",
+    "title": "Dota 2：从官方公告跟进版本与赛事",
+    "brief": "游戏兴趣板块的一个入口，关注版本变化、赛事信息与官方更新。",
+    "summary": "这是一条来源入口的演示内容，链接为 Dota 2 官方新闻页面。当前没有摘录某一天的具体公告。后续日报会链接到具体版本说明或赛事公告，明确发布日期，并避免把旧消息写成当天新闻。",
+    "category": "游戏与模型",
+    "priority": "normal",
+    "sourceName": "Dota 2 官方",
+    "sourceUrl": "https://www.dota2.com/news"
+  },
+  {
+    "id": "demo-12",
+    "title": "高达模型：关注官方新品与制作资料",
+    "brief": "从官方信息入手，再搭配有过程、有细节的模型制作分享。",
+    "summary": "这是一条高达模型栏目演示内容，当前展示的是官方信息入口，不代表今天发布了新品。后续选题优先使用具体产品页面、发售公告和可核实的制作内容；预售、发售与补货会区分说明。",
+    "category": "游戏与模型",
+    "priority": "normal",
+    "sourceName": "GUNDAM 官方",
+    "sourceUrl": "https://en.gundam-official.com/"
+  },
+  {
+    "id": "demo-13",
+    "title": "四驱车调校：先读赛道，再选零件",
+    "brief": "田宫官方指南介绍马达、齿轮、轮胎、刹车和配件匹配等调校要点。",
+    "summary": "这是一条四驱车入门资料的演示内容。田宫指南提醒玩家依据赛道特点选择马达和齿比，并检查升级零件与底盘的兼容性。页面也包含制作与调校视频入口，适合作为后续经验分享的参考。此条目是长期资料，并非新产品公告。",
+    "category": "游戏与模型",
+    "priority": "normal",
+    "sourceName": "TAMIYA 田宫",
+    "sourceUrl": "https://www.tamiya.com/english/mini4wd/setupguide/setupguide.htm"
+  },
+  {
+    "id": "demo-14",
+    "title": "小比例车模：发现 1:64 的细节世界",
+    "brief": "关注 MINI GT 等品牌的新品、车型选择与模型细节。",
+    "summary": "这是一条小比例汽车模型的演示内容，链接为 MINI GT 官方网站。后续会挑选具体车型和品牌公告，并区分公布时间、预计发售时间与实际可购买情况；不把产品目录当成当天新闻。",
+    "category": "游戏与模型",
+    "priority": "normal",
+    "sourceName": "MINI GT",
+    "sourceUrl": "https://minigt.tsm-models.com/"
+  },
+  {
+    "id": "demo-15",
+    "title": "摄影：从优秀作品学习观察与表达",
+    "brief": "看作品，也留意摄影师如何建立自己的视觉语言。",
+    "summary": "这是一条摄影兴趣栏目演示内容。来源为 Magnum Photos，作为摄影作品与学习资料的入口。后续日报会优先分享具体摄影项目、访谈和可实践的经验，当前不对未读取的作品或课程作内容判断。",
+    "category": "个人成长",
+    "priority": "normal",
+    "sourceName": "Magnum Photos",
+    "sourceUrl": "https://www.magnumphotos.com/"
+  },
+  {
+    "id": "demo-16",
+    "title": "电影艺术：从一篇影评进入一部电影",
+    "brief": "Criterion 的电影文章可作为学习影像、叙事和电影文化的入口。",
+    "summary": "这是一条电影艺术长文的来源示例，链接为 Criterion 的 Essays 栏目。后续会挑选具体文章，说明阅读角度与所涉及的电影。当前条目没有替某篇未阅读全文的文章撰写结论，也不是当天电影新闻。",
+    "category": "个人成长",
+    "priority": "normal",
+    "sourceName": "The Criterion Collection",
+    "sourceUrl": "https://www.criterion.com/current/category/2-essays"
+  }
+]
